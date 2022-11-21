@@ -18,4 +18,4 @@ Save my sophomore homework
 只写了人机对战，加入人人对战难度也不高，只是不太想写了，AI判断最佳落子算法采用权值法。
 
 ## 下棋流程图
-
+![流程图](https://github.com/jacpty/Gobang/blob/main/picture/flowChart.png)
