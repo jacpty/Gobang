@@ -19,3 +19,11 @@ Save my sophomore homework
 
 ## 下棋流程图
 ![流程图](https://github.com/jacpty/Gobang/blob/main/picture/flowChart.png)
+
+## 环境
+
+> Windows11系统
+>
+> IntelliJ IDEA 集成开发环境
+>
+> JDK17
