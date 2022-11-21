@@ -21,7 +21,7 @@ public class MainGamePanel extends JPanel {
         JButton start = new JButton("开始游戏！");
         JButton quit = new JButton("退出游戏");
 
-        //设置图片：将图片用JLabel存放再添加到container中
+        //创建图片，用ImageIcon存放图片，然后将背景设置成图片
         ImageIcon background = new ImageIcon(Objects.requireNonNull(MainGamePanel.class.getResource("statics/background.jpg")));
         background.setImage(background.getImage().getScaledInstance(background.getIconWidth(),
                 background.getIconHeight(),Image.SCALE_DEFAULT)); //设置图片格式
